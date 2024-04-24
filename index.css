@@ -4,6 +4,9 @@
     padding: 0;
     
   }
+  h1{
+    color: #795548;
+  }
   h2{
     text-align: center;
   }
@@ -101,4 +104,7 @@
 
 .poll h3 {
     color: #FFC107; /* Amber */
+}
+blockquote{
+    background-color: #795548;
 }
